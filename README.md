@@ -75,15 +75,6 @@ While building this project I practiced:
 
 ---
 
-## 🔮 Future Improvements
-
-- Mobile responsive layout using media queries
-- Dark mode
-- JavaScript functionality
-- Dynamic video loading
-- Search functionality
-
----
 
 ## 🙌 Acknowledgements
 
